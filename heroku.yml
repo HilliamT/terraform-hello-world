@@ -1,0 +1,4 @@
+# Tell Heroku to build and run our application via our Dockerfile
+build:
+  docker: 
+    web: Dockerfile
